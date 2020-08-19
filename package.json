@@ -1,0 +1,24 @@
+{
+  "name": "jest-matchers",
+  "version": "1.0.0",
+  "description": "Examples with jest matchers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasdeoliveiradev/jest-matchers.git"
+  },
+  "keywords": [
+    "jest",
+    "javascript",
+    "tests"
+  ],
+  "author": "Lucas de Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasdeoliveiradev/jest-matchers/issues"
+  },
+  "homepage": "https://github.com/lucasdeoliveiradev/jest-matchers#readme"
+}
