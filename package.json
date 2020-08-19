@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/lucasdeoliveiradev/jest-matchers/issues"
   },
-  "homepage": "https://github.com/lucasdeoliveiradev/jest-matchers#readme"
+  "homepage": "https://github.com/lucasdeoliveiradev/jest-matchers#readme",
+  "devDependencies": {
+    "jest": "^26.4.0"
+  }
 }
